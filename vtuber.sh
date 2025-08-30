@@ -38,5 +38,6 @@ check_streamer_live "Youtube Nintendo" "https://www.youtube.com/@NintendoAmerica
 check_streamer_live "Twitch Nintendo" "https://www.twitch.tv/nintendo" "1080P,1080p60"
 check_streamer_live "Mint Castella" "https://www.twitch.tv/mintcastella" "720p,720p60"
 check_streamer_live "Your favorite shark" "https://www.youtube.com/@GawrGura/live" "720p,720p60"
+check_streamer_live "KingCobraJFS" "https://www.youtube.com/@KingCobraJFS/live" "720p,720p60"
 
 wait
